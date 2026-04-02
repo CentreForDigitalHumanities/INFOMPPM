@@ -22,7 +22,7 @@ credentials:
       password: ikbenookgekopkroketjes # Will be hashed automatically            
 cookie:
   expiry_days: 30
-  key: some_signature_key # Must be string
+  key: some_signature_key_that_is_long_enough
   name: some_cookie_name
 preauthorized:
   emails:
